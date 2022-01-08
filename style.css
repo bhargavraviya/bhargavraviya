@@ -570,7 +570,8 @@ label {
 
 #logo {
     margin-top: 5px;
-    height: 80%;
+    /* height: 80%; */
+    height: 80px;
     padding: 6px;
     /* bhargav */
     /* border: 4px solid #444;
