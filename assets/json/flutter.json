@@ -1,0 +1,267 @@
+[
+    {
+        "title": "Flutter Start Kit",
+        "lists": [
+            {
+                "title": "Flutter Starter Kit (MoonLight)",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-starter-kit-moonlight-99e015df4611",
+                "gist": ""
+            }
+        ]
+    },
+    {
+        "title": "Flutter Examples",
+        "lists": [
+            {
+                "title": "Simple Material App",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-simple-material-app-cd266b964725",
+                "gist": "https://gist.github.com/raviyatechnical/c76984f349b6f2130212b53c31d788b4"
+            },
+            {
+                "title": "Using Theme",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-theme-a68509abb3c2",
+                "gist": "https://gist.github.com/raviyatechnical/fba79ad4e68ff22d8325710040a9795d"
+            },
+            {
+                "title": "Stateless Widgets",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-stateless-widgets-d5760ecdff15",
+                "gist": "https://gist.github.com/raviyatechnical/11a2c6d727cd58e6dae82f8e9a1a1aca"
+            },
+            {
+                "title": "Stateful Widget",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-stateful-widget-110750287726",
+                "gist": "https://gist.github.com/raviyatechnical/1d1332b392fdc38205b6b816127db7bb"
+            },
+            {
+                "title": "Using EditText",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-edittext-7f3681aab3a2",
+                "gist": "https://gist.github.com/raviyatechnical/92cbd466c3851c136f6d1c72b882c009"
+            },
+            {
+                "title": "Load local image",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-load-local-image-cc238266872b",
+                "gist": "https://gist.github.com/raviyatechnical/da4b46b2e3dae328c1ad923cc643a5c9"
+            },
+            {
+                "title": "Load local json",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-load-local-json-829c77284233",
+                "gist": "https://gist.github.com/raviyatechnical/427cc50066b3a9b263aa5322870215eb"
+            },
+            {
+                "title": "Using HTTP GET",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-http-get-6a70fe4534fc",
+                "gist": "https://gist.github.com/raviyatechnical/14fbf27277e25cd6a1813614b537e72b"
+            },
+            {
+                "title": "Using Alert Dialog",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-alert-dialog-f8183c40056d",
+                "gist": "https://gist.github.com/raviyatechnical/e609c146165240cfd59802ec2018f919"
+            },
+            {
+                "title": "Using Stepper",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-stepper-f745c3dc3907",
+                "gist": "https://gist.github.com/raviyatechnical/ce97ca85ece057ab194c48a2b61875cc"
+            },
+            {
+                "title": "Using Tabs",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-tabs-cab50f04bbff",
+                "gist": "https://gist.github.com/raviyatechnical/7338d40ef26706928fb5007360a13ce3"
+            },
+            {
+                "title": "Using Bottom Navigation Bar",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-bottom-navigation-bar-2808a9bd523",
+                "gist": "https://gist.github.com/raviyatechnical/f015b06daade716db81e4246fa063f9e"
+            },
+            {
+                "title": "Using Custom Fonts",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-custom-fonts-9f638fabdccb",
+                "gist": "https://gist.github.com/raviyatechnical/ff2c2aa33158405376260959678bd270"
+            },
+            {
+                "title": "Using Gradient",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-gradient-e9a16d9de778",
+                "gist": "https://gist.github.com/raviyatechnical/21e28c5bc742110cf697d2b7d68fe5b4"
+            },
+            {
+                "title": "Navigation Drawer",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-navigation-drawer-216f30063198",
+                "gist": "https://gist.github.com/raviyatechnical/de19b6b35f0cc04aaeb43fe393a63b76"
+            },
+            {
+                "title": "Enable Splash Screen",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-enable-splash-screen-ceefac3a7d56",
+                "gist": "https://gist.github.com/raviyatechnical/098632cc1e09dd33d02058e6af9e014c"
+            },
+            {
+                "title": "Using List View",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-listview-4cc866dd352",
+                "gist": "https://gist.github.com/raviyatechnical/75e59a3e700e1888baff9d08e90fa183"
+            },
+            {
+                "title": "Using List wheel Scroll View",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-listwheelscrollview-24843b1ecf09",
+                "gist": "https://gist.github.com/raviyatechnical/03df05cb3a1a159db3457fd3a09eab19"
+            },
+            {
+                "title": "Using SnackBar",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-using-snackbar-fc2cd752f02d",
+                "gist": "https://gist.github.com/raviyatechnical/2859a298d0c675d16a043c8a9d004de0"
+            },
+            {
+                "title": "Grid Layout",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-grid-layout-f95f67fe88a7",
+                "gist": "https://gist.github.com/raviyatechnical/485d66f2ead459731f275b65fdce651f"
+            }
+        ]
+    },
+    {
+        "title": "Flutter Basic",
+        "lists": [
+            {
+                "title": "Install Flutter on Windows",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-install-flutter-on-windows-10-and-setup-flutter-windows-1f05df7dd31",
+                "gist": ""
+            },
+            {
+                "title": "Flutter Change App Launcher Icon & Name (Android and iOS)",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-change-app-launcher-icon-name-android-and-ios-9f080b2c4727",
+                "gist": ""
+            },
+            {
+                "title": "Flutter GridView Example",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-gridview-example-cff19e256b68",
+                "gist": ""
+            },
+            {
+                "title": "Flutter Read Local Image File From Assets",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-read-local-image-file-from-assets-e360efea8902",
+                "gist": ""
+            },
+            {
+                "title": "HOW TO CHANGE PACKAGE, VERSION CODE, MINSDKVERSION, AND TARGETSDKVERSION FOR ANDROID AND FLUTTER (SET THE APPLICATION ID)",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-change-package-version-code-minsdkversion-and-targetsdkversion-for-android-and-flutter-40ba581601aa",
+                "gist": ""
+            },
+            {
+                "title": "ANDROID HIDDEN CODES",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/android-hidden-codes-android-phone-code-number-ab41cf660f94",
+                "gist": ""
+            },
+            {
+                "title": "Flutter Routes System Mangement",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-use-routes-in-flutter-using-generated-routes-3cee48e28879",
+                "gist": ""
+            },
+            {
+                "title": "Read Local JSON File From Assets",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-read-local-json-file-from-assets-ad150db37929",
+                "gist": ""
+            },
+            {
+                "title": "Changing Android Package name and iOS Bundle ID (bundle identifier)",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-changing-android-package-name-and-ios-bundle-id-bundle-identifier-in-flutter-78bd234ef3b",
+                "gist": ""
+            },
+            {
+                "title": "List Lazy loading",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/getting-to-know-flutter-list-lazy-loading-54ecd63b0c2f",
+                "gist": ""
+            },
+            {
+                "title": "Flutter ListView Pagination (Load More) example",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-listview-pagination-load-more-example-bf40678133eb",
+                "gist": ""
+            },
+            {
+                "title": "Flutter Desktop for Linux, MacOS and Windows",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-flutter-desktop-for-linux-macos-and-windows-b0361d28a34c",
+                "gist": ""
+            }
+        ]
+    },
+    {
+        "title": "Flutter Package",
+        "lists": [
+            {
+                "title": "Flutter Device Information",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-get-flutter-device-information-using-device-info-package-2d4042b03fe4",
+                "gist": ""
+            },
+            {
+                "title": "Localization in Flutter",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-implement-localization-in-flutter-using-l10n-a11y-i18n-9f2cde883f4c",
+                "gist": ""
+            },
+            {
+                "title": "Google Mobile Ads SDK TEST Mode",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/monetizing-apps-using-google-mobile-ads-sdk-for-flutter-2-2-cf9de33a7f2a",
+                "gist": ""
+            },
+            {
+                "title": "Flutter HTTP",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/how-to-flutter-http-get-request-using-http-package-8f68d1716567",
+                "gist": ""
+            },
+            {
+                "title": "Flutter (Google FCM) Push Notification Tutorial",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-google-fcm-push-notification-tutorial-f5b640ab35d3",
+                "gist": ""
+            }
+        ]
+    },
+    {
+        "title": "Flutter GetX",
+        "lists": [
+            {
+                "title": "Route Management",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-getx-route-management-c47990f7b19e",
+                "gist": ""
+            },
+            {
+                "title": "Localization (Multi Languages)",
+                "source_code": "",
+                "blog": "https://medium.com/rajtechnologies/flutter-getx-localization-multi-languages-change-app-language-a73f6f62f50a",
+                "gist": ""
+            }
+        ]
+    }
+]
