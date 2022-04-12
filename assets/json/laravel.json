@@ -4,135 +4,135 @@
         "lists": [
             {
                 "title": "Create First Laravel Project",
-                "blog": "https://raviyatechnical.medium.com/how-to-install-laravel-in-ubuntu-b32f261a1ef9"
+                "url": "https://raviyatechnical.medium.com/how-to-install-laravel-in-ubuntu-b32f261a1ef9"
             },
             {
                 "title": "Laravel Vapor Deployment",
-                "blog": "#"
+                "url": "#"
             },
             {
                 "title": "Laravel Install Bootstrap 4",
-                "blog": "https://raviyatechnical.medium.com/how-to-install-bootstrap-in-laravel-8f5362370902"
+                "url": "https://raviyatechnical.medium.com/how-to-install-bootstrap-in-laravel-8f5362370902"
             },
             {
                 "title": "Laravel Install Vue JS",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-install-vue-js-in-laravel-bfa9539c621a"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-install-vue-js-in-laravel-bfa9539c621a"
             },
             {
                 "title": "Laravel Install React JS",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-install-react-in-laravel-4e223ace972c"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-install-react-in-laravel-4e223ace972c"
             },
             {
                 "title": "Laravel Routing",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-routing-tutorial-laravel-7-6-route-tutorial-86d28a98e45d"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-routing-tutorial-laravel-7-6-route-tutorial-86d28a98e45d"
             },
             {
                 "title": "Laravel Resource Route",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-7-6-resource-route-and-controller-tutorial-c36a5194970f"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-7-6-resource-route-and-controller-tutorial-c36a5194970f"
             },
             {
                 "title": "Laravel Resource Controller",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-create-laravel-resource-controller-example-e5de6310c60"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-create-laravel-resource-controller-example-e5de6310c60"
             },
             {
                 "title": "Laravel Database Seeder",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-what-is-database-seeder-in-laravel-ec3e27cd700"
+                "url": "https://medium.com/raviya-technical/laravel-basic-what-is-database-seeder-in-laravel-ec3e27cd700"
             },
             {
                 "title": "Laravel Form Validation",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-6-form-validation-with-error-messages-fc502cb87ebd"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-6-form-validation-with-error-messages-fc502cb87ebd"
             },
             {
                 "title": "Laravel Ajax Form Validation",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-form-validation-tutorial-1fc26e4b2ff4"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-form-validation-tutorial-1fc26e4b2ff4"
             },
             {
                 "title": "Laravel Middleware",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-middleware-tutorial-with-example-b9848887748f"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-middleware-tutorial-with-example-b9848887748f"
             },
             {
                 "title": "Laravel Ajax",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-request-example-7aab163baf43"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-request-example-7aab163baf43"
             },
             {
                 "title": "Laravel Image Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-image-upload-tutorial-cf58c1f15c43"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-image-upload-tutorial-cf58c1f15c43"
             },
             {
                 "title": "Laravel Ajax Image Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-image-upload-example-c38f33908be7"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-ajax-image-upload-example-c38f33908be7"
             },
             {
                 "title": "Laravel File Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-file-upload-tutorial-example-9c98ef8aace2"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-file-upload-tutorial-example-9c98ef8aace2"
             },
             {
                 "title": "Laravel Multiple Image Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-multiple-image-upload-tutorial-f911350408e5"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-multiple-image-upload-tutorial-f911350408e5"
             },
             {
                 "title": "Laravel Pagination",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-pagination-example-tutorial-352281d96d9f"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-pagination-example-tutorial-352281d96d9f"
             },
             {
                 "title": "Laravel Ajax Pagination",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-ajax-pagination-with-laravel-tutorial-d010e4a3ebb6"
+                "url": "https://medium.com/raviya-technical/laravel-basic-ajax-pagination-with-laravel-tutorial-d010e4a3ebb6"
             },
             {
                 "title": "Laravel Cache Clear",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-7-6-clear-cache-of-route-view-config-command-60674c83caf2"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-7-6-clear-cache-of-route-view-config-command-60674c83caf2"
             },
             {
                 "title": "Laravel Carbon",
-                "blog": "#"
+                "url": "#"
             },
             {
                 "title": "Laravel Model Observers",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-use-laravel-model-observers-857a4ba79f81"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-use-laravel-model-observers-857a4ba79f81"
             },
             {
                 "title": "Laravel Eloquent Relationships",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-eloquent-relationships-tutorial-from-scratch-8430b8870e0"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-eloquent-relationships-tutorial-from-scratch-8430b8870e0"
             },
             {
                 "title": "Laravel Model Events",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-model-events-tutorial-275a61f4e1dc"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-model-events-tutorial-275a61f4e1dc"
             },
             {
                 "title": "Laravel Authentication",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-authentication-tutorial-ce7d4fa1bcd9"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-authentication-tutorial-ce7d4fa1bcd9"
             },
             {
                 "title": "Laravel Email Verification",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-email-verification-tutorial-e23817b935d7"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-email-verification-tutorial-e23817b935d7"
             },
             {
                 "title": "Laravel Localization",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-laravel-localization-trans-helper-b6bba4aa3cab"
+                "url": "https://medium.com/raviya-technical/laravel-basic-laravel-localization-trans-helper-b6bba4aa3cab"
             },
             {
                 "title": "Laravel Mail",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-send-mail-in-laravel-f26bdb2483ad"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-send-mail-in-laravel-f26bdb2483ad"
             },
             {
                 "title": "Laravel Queue",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-send-mail-using-queue-in-laravel-c3b5856d9c76"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-send-mail-using-queue-in-laravel-c3b5856d9c76"
             },
             {
                 "title": "Laravel Tinker",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-create-dummy-data-using-tinker-factory-77a809324d5b"
+                "url": "https://medium.com/raviya-technical/laravel-basic-create-dummy-data-using-tinker-factory-77a809324d5b"
             },
             {
                 "title": "Laravel Collection",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-collection-concat-method-example-4cd08d634782"
+                "url": "https://medium.com/raviya-technical/laravel-basic-collection-concat-method-example-4cd08d634782"
             },
             {
                 "title": "Laravel Migration",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-how-to-create-table-using-migration-d5332f58a5d1"
+                "url": "https://medium.com/raviya-technical/laravel-basic-how-to-create-table-using-migration-d5332f58a5d1"
             },
             {
                 "title": "Laravel Soft Delete",
-                "blog": "https://medium.com/raviya-technical/laravel-basic-soft-delete-example-8cbab67e6aa"
+                "url": "https://medium.com/raviya-technical/laravel-basic-soft-delete-example-8cbab67e6aa"
             }
         ]
     },
@@ -141,31 +141,31 @@
         "lists": [
             {
                 "title": "One to One Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-one-eloquent-relationship-tutorial-69a2835de23d"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-one-eloquent-relationship-tutorial-69a2835de23d"
             },
             {
                 "title": "One to Many Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-eloquent-relationship-tutorial-b358355513f9"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-eloquent-relationship-tutorial-b358355513f9"
             },
             {
                 "title": "Many to Many Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-many-to-many-eloquent-relationship-tutorial-309ef941c4d9"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-many-to-many-eloquent-relationship-tutorial-309ef941c4d9"
             },
             {
                 "title": "Has Many Through Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-has-many-through-eloquent-relationship-tutorial-21a59f8294e7"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-has-many-through-eloquent-relationship-tutorial-21a59f8294e7"
             },
             {
                 "title": "One to Many Polymorphic Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-polymorphic-relationship-tutorial-5b2156f3b7d6"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-polymorphic-relationship-tutorial-5b2156f3b7d6"
             },
             {
                 "title": "Many to Many Polymorphic Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-polymorphic-relationship-tutorial-5b2156f3b7d6"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-one-to-many-polymorphic-relationship-tutorial-5b2156f3b7d6"
             },
             {
                 "title": "Laravel Eager Loading",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-eager-loading-tutorial-48cd42c1886c"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-relationships-laravel-eager-loading-tutorial-48cd42c1886c"
             }
         ]
     },
@@ -174,115 +174,115 @@
         "lists": [
             {
                 "title": "Laravel Where Like",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-like-query-example-using-eloquent-where-clause-d7ed41a19656"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-like-query-example-using-eloquent-where-clause-d7ed41a19656"
             },
             {
                 "title": "Laravel Where Exists",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-query-builder-where-exists-example-5f9538c92765"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-query-builder-where-exists-example-5f9538c92765"
             },
             {
                 "title": "Laravel orWhere Condition",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-orwhere-condition-using-eloquent-query-be17d6252eef"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-orwhere-condition-using-eloquent-query-be17d6252eef"
             },
             {
                 "title": "Laravel Multiple Where Condition",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-multiple-where-condition-example-4bb8be1d7b9b"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-multiple-where-condition-example-4bb8be1d7b9b"
             },
             {
                 "title": "Laravel Where with SQL Function",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-clause-with-mysql-function-example-af97dbf89dbb"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-clause-with-mysql-function-example-af97dbf89dbb"
             },
             {
                 "title": "Laravel Where with Date Format",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-clause-with-date-format-example-b12fc4772761"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-clause-with-date-format-example-b12fc4772761"
             },
             {
                 "title": "Laravel Where with Two Column",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-condition-with-two-columns-example-b5f0c0529c26"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-where-condition-with-two-columns-example-b5f0c0529c26"
             },
             {
                 "title": "Laravel WhereDate",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
             },
             {
                 "title": "Laravel WhereDay",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
             },
             {
                 "title": "Laravel WhereMonth",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
             },
             {
                 "title": "Laravel WhereYear",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wheredate-wheremonth-whereday-and-whereyear-examples-7f54edd38b19"
             },
             {
                 "title": "Laravel firstWhere",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-collection-first-and-firstwhere-methods-example-ab385e5b9c3c"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-collection-first-and-firstwhere-methods-example-ab385e5b9c3c"
             },
             {
                 "title": "Laravel WhereIn",
-                "blog": "https://raviyatechnical.medium.com/laravel-eloquent-query-laravel-wherein-query-example-105a26d78db3"
+                "url": "https://raviyatechnical.medium.com/laravel-eloquent-query-laravel-wherein-query-example-105a26d78db3"
             },
             {
                 "title": "Laravel WhereNotIn",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherenotin-query-example-52212ff7dcbb"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherenotin-query-example-52212ff7dcbb"
             },
             {
                 "title": "Laravel WhereHas",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherehas-with-orwherehas-8912507c05f2"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherehas-with-orwherehas-8912507c05f2"
             },
             {
                 "title": "Laravel orWhereHas",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherehas-with-orwherehas-8912507c05f2"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherehas-with-orwherehas-8912507c05f2"
             },
             {
                 "title": "Laravel WhereKey",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherekey-method-43ef1ed9d1d7"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-wherekey-method-43ef1ed9d1d7"
             },
             {
                 "title": "Laravel WhereIn",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-wherein-and-wherenotin-with-subquery-example-using-the-query-builder-179079dd09f7"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-wherein-and-wherenotin-with-subquery-example-using-the-query-builder-179079dd09f7"
             },
             {
                 "title": "Laravel WhereNotIn",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-wherein-and-wherenotin-with-subquery-example-using-the-query-builder-179079dd09f7"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-wherein-and-wherenotin-with-subquery-example-using-the-query-builder-179079dd09f7"
             },
             {
                 "title": "Laravel Group By with Order By",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-group-by-with-order-by-desc-9ccb041b4e13"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-group-by-with-order-by-desc-9ccb041b4e13"
             },
             {
                 "title": "Laravel Order By Multiple Column",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-order-by-using-multiple-columns-and-manually-array-field-in-laravel-34cf42a5e5a"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-order-by-using-multiple-columns-and-manually-array-field-in-laravel-34cf42a5e5a"
             },
             {
                 "title": "Laravel Order By Random",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-orderby-random-using-rand-and-db-raw-example-ac53f6668036"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-orderby-random-using-rand-and-db-raw-example-ac53f6668036"
             },
             {
                 "title": "Laravel Group By with DB Raw",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-how-to-use-groupby-having-with-db-raw-in-laravel-query-builder-eaad1ca1f3c9"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-how-to-use-groupby-having-with-db-raw-in-laravel-query-builder-eaad1ca1f3c9"
             },
             {
                 "title": "Laravel Group By Multiple Column",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-how-to-group-by-multiple-columns-in-laravel-query-builder-394339948b7d"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-how-to-group-by-multiple-columns-in-laravel-query-builder-394339948b7d"
             },
             {
                 "title": "Laravel Where with Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-where-condition-in-laravel-relationship-example-88cddec8d651"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-where-condition-in-laravel-relationship-example-88cddec8d651"
             },
             {
                 "title": "Laravel Order By with Relationship",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-order-by-relation-column-example-3f3ac00fb3c3"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-order-by-relation-column-example-3f3ac00fb3c3"
             },
             {
                 "title": "Laravel Order By with Relationship Sum",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-order-by-relationship-sum-column-example-389c5eeee828"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-order-by-relationship-sum-column-example-389c5eeee828"
             },
             {
                 "title": "Laravel Eloquent Replicate",
-                "blog": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-copy-record-using-eloquent-replicate-example-8fbc79e17fd6"
+                "url": "https://medium.com/raviya-technical/laravel-eloquent-query-laravel-copy-record-using-eloquent-replicate-example-8fbc79e17fd6"
             }
         ]
     },
@@ -291,63 +291,81 @@
         "lists": [
             {
                 "title": "Livewire Submit Form Request",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-form-example-727a04cb4e75"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-form-example-727a04cb4e75"
             },
             {
                 "title": "Livewire Change Event",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-change-event-example-5572679b1251"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-change-event-example-5572679b1251"
             },
             {
                 "title": "Livewire Click Event",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-click-event-example-4a667ec040da"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-click-event-example-4a667ec040da"
             },
             {
                 "title": "Livewire SweetAlert Example",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-sweetalert-example-1ca8d2e4c90"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-sweetalert-example-1ca8d2e4c90"
             },
             {
                 "title": "Livewire Toastr Notification Example",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-toastr-notifications-example-b6c7e9acf6bd"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-toastr-notifications-example-b6c7e9acf6bd"
             },
             {
                 "title": "Livewire CRUD",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-crud-application-tutorial-5d7372e1bda9"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-crud-application-tutorial-5d7372e1bda9"
             },
             {
                 "title": "Livewire Dependant Dropdown Example",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-dependant-dropdown-example-a2f32e512567"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-dependant-dropdown-example-a2f32e512567"
             },
             {
                 "title": "Livewire Delete before Confirm",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-delete-confirmation-example-ca7d76974fc"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-delete-confirmation-example-ca7d76974fc"
             },
             {
                 "title": "Livewire Wizard Form",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-wizard-form-example-5a9cbca9833a"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-wizard-form-example-5a9cbca9833a"
             },
             {
                 "title": "Livewire Datatables Example",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-datatables-example-tutorial-17c0893df8ec"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-datatables-example-tutorial-17c0893df8ec"
             },
             {
                 "title": "Livewire using Auth JetStream",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-auth-with-jetstream-tutorial-f35007782715"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-auth-with-jetstream-tutorial-f35007782715"
             },
             {
                 "title": "Livewire Load More Records",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-load-more-onscroll-example-75b851857a3a"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-load-more-onscroll-example-75b851857a3a"
             },
             {
                 "title": "Livewire Image Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-image-upload-example-d6d1f4c10027"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-image-upload-example-d6d1f4c10027"
             },
             {
                 "title": "Livewire Pagination",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-pagination-example-5e0666a0a6fc"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-pagination-example-5e0666a0a6fc"
             },
             {
                 "title": "Livewire File Upload",
-                "blog": "https://medium.com/raviya-technical/laravel-livewire-file-upload-tutorial-312932d5b7d2"
+                "url": "https://medium.com/raviya-technical/laravel-livewire-file-upload-tutorial-312932d5b7d2"
+            }
+        ]
+    },
+    {
+        "title": "Laravel CRUD",
+        "lists": [
+            {
+                "title": "Laravel 8 CRUD",
+                "url": "https://medium.com/raviya-technical/laravel-crud-laravel-8-crud-application-tutorial-for-beginners-249ee7ac76d2"
+            }
+        ]
+    },
+    {
+        "title": "Laravel REST API",
+        "lists": [
+            {
+                "title": "Laravel 8 REST API",
+                "url": "https://medium.com/raviya-technical/laravel-rest-api-laravel-8-rest-api-with-passport-authentication-tutorial-3eddbb2f3dc9"
             }
         ]
     }
