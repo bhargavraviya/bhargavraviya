@@ -92,7 +92,7 @@
             </div>
         </div>
     </div>
-
+    <script src="/assets/js/common.js"></script>
     <script>
         var base_url = window.location.origin;
         var requestOptions = {
@@ -108,7 +108,7 @@
 
         async function fetchData() {
 
-            const response = await fetch(base_url + "/assets/json/laravel.json", requestOptions);
+            const response = await fetch(base_url_api + "/assets/json/laravel.json", requestOptions);
             const data = await response.json();
             var html = "";
 
