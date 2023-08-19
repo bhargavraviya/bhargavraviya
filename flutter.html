@@ -99,7 +99,7 @@
 
     async function fetchData() {
 
-        const response = await fetch("/assets/json/flutter.json", requestOptions);
+        const response = await fetch(base_url_api + "/assets/json/flutter.json", requestOptions);
         const data = await response.json();
         var html = "";
 

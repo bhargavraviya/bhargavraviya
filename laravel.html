@@ -108,7 +108,7 @@
 
         async function fetchData() {
 
-            const response = await fetch("/assets/json/laravel.json", requestOptions);
+            const response = await fetch(base_url_api + "/assets/json/laravel.json", requestOptions);
             const data = await response.json();
             var html = "";
 
