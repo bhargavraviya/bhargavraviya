@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhargav Raviya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Flutter App Kit Developement](https://github.com/RajTechnologiesPvtLtd/flutter-moonlight)
+- 🔭 I’m currently working on [Learning Node Js (Express Js)](https://github.com/raviyatechnical/learn-nodejs) & [Flutter App Kit Developement](https://github.com/RajTechnologiesPvtLtd/flutter-moonlight)
 
-- 🌱 I’m currently learning **Laravel and Flutter**
+- 🌱 I’m currently learning **Laravel, Node js (Express Js) and Flutter**
 
-- 💬 Ask me about **Laravel and Flutter**
+- 💬 Ask me about **Laravel, Node js (Express Js) and Flutter**
+
+- 📄 Know about my blogs [https://raviyatechnical.medium.com](https://raviyatechnical.medium.com)
 
 - 📄 Know about my experiences [http://raviyabhargav.blogspot.com/p/my-job-resume-a.html](http://raviyabhargav.blogspot.com/p/my-job-resume-a.html)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +31,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
@@ -54,12 +55,13 @@
 
 ### TECHNOLOGIES USED 
 * TALL STACK (Tailwind CSS, Alpine. JS, Laravel and Livewire)
+* Node Js (Express Js)
 * Flutter
-* JAVASCRIPT
 * Vue JS
 * BOOTSTRAP
 * Icons (FONT AWESOME 5 (Web), Google Fonts Icons (Mobile App))
 * HTML5
 * CSS
+* JAVASCRIPT
 
 ##### Made with ❤ by <a href="https://github.com/bhargavraviya">bhargavraviya</a>
